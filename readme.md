@@ -1,0 +1,2 @@
+Projeto realizado ao longo do curso de lógica de programação : funções e listas da Alura.
+Ao longo do curso, foi desenvolvido um jogo que consiste em encontrar um número aleatório gerado através da função math.random do javascript.
